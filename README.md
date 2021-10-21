@@ -1,2 +1,2 @@
-# ci_acse1
-Dummy repo for CI lecture
+# CI MPM
+Toy repo for CI lecture.
