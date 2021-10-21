@@ -1,0 +1,13 @@
+name: ci
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python>=3.6,<3.10
+  - pip
+  - numpy>1.16
+  - scipy
+  - matplotlib
+  - sympy
+  - flake8
+  - pytest
