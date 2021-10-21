@@ -1,4 +1,4 @@
-name: CI-unit-tests
+name: pytest-unit-tests
 
 on:
   # Trigger the workflow on push or pull request,
