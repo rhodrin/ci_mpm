@@ -1,4 +1,5 @@
 from .functions1 import * # noqa
+from .constants import * # noqa - not giving a warning
 
 from pkg_resources import get_distribution, DistributionNotFound
 try:
