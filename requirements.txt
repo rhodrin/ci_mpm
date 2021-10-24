@@ -3,4 +3,4 @@ scipy
 matplotlib
 sympy
 flake8
-pytests
+pytest
