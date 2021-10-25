@@ -1,2 +1,2 @@
 # CI MPM
-with some simple functions for the CI lecture
+repo with some simple functions for the CI lecture
