@@ -13,3 +13,8 @@ def pi(terms=1):
 def rsum(n):
     t = factorial(4*n)*(1103+26390*n)/(factorial(n)**4*396**(4*n))
     return t + rsum(n-1) if n else t
+
+
+
+
+
