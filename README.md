@@ -1,2 +1,2 @@
 # CI MPM
-Toy repo for CI lecture.
+Toy repo with some simple functions for CI lecture.
