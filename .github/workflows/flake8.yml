@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v2    #an action to clone the repository of interest, acse1_ci, onto the github runner
 
     - name: Set up Python 3.9
       uses: actions/setup-python@v1
