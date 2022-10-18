@@ -1,4 +1,4 @@
-
+import numpy as np
 __all__ = ['my_sum']
 
 
