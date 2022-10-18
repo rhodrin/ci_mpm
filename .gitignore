@@ -1,0 +1,4 @@
+.eggs/
+simple_functions.egg-info/
+simple_functions/__pycache__/
+tests/__pycache__/
