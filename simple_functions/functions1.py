@@ -1,5 +1,5 @@
 from functools import cache
-__all__ = ['my_sum','factorial']
+__all__ = ['my_sum', 'factorial']
 
 
 def my_sum(iterable):
@@ -7,6 +7,7 @@ def my_sum(iterable):
     for i in iterable:
         tot += i
     return tot
+
 
 @cache
 def factorial(n):
