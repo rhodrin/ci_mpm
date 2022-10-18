@@ -3,6 +3,7 @@ import pytest
 from simple_functions import factorial, my_sum
 
 
+
 class TestSimpleFunctions(object):
     '''Class to test our simple functions are working correctly'''
 
