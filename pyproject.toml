@@ -1,3 +1,16 @@
 [build-system]
 requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
+
+[project]
+name = "simple_functions"  # 你的包名称
+version = "0.1.0"  # 包的版本
+description = "A package for simple math functions"
+authors = [{name = "Your Name", email = "your.email@example.com"}]
+license = {text = "MIT"}  # 包的许可证类型
+dependencies = ["numpy", "functools"]   # 运行时依赖
+readme = "README.md"  # 包含的 README 文件
+
+[tool.setuptools.packages.find]
+where = ["simple_functions"]
+
