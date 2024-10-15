@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+simple_functions/simple_functions.egg-info/PKG-INFO
+simple_functions/simple_functions.egg-info/SOURCES.txt
+simple_functions/simple_functions.egg-info/dependency_links.txt
+simple_functions/simple_functions.egg-info/requires.txt
+simple_functions/simple_functions.egg-info/top_level.txt
+tests/test_constants.py
+tests/test_simple_functions.py

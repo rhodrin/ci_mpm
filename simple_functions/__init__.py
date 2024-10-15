@@ -1,4 +1,5 @@
-from .functions1 import *  # noqa
+from simple_functions.functions1 import my_sum, my_prod  # noqa
+from simple_functions.cacu_pi import pi, rsum
 
 try:
     from importlib.metadata import version, PackageNotFoundError  # Python 3.8+
