@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: simple-functions
+Version: 0.1.dev14+g336efd1
+Summary: Environment for playing with CI.
+Home-page: https://github.com/rhodrin/ci_mpm
+Author: Imperial College London
+Author-email: rhodri.nelson@imperial.ac.uk
