@@ -1,0 +1,13 @@
+README.md
+environment.yml
+requirements.txt
+setup.py
+.github/workflows/flake8.yml
+.github/workflows/pytest-unit-tests.yml
+simple_functions/__init__.py
+simple_functions/functions1.py
+simple_functions.egg-info/PKG-INFO
+simple_functions.egg-info/SOURCES.txt
+simple_functions.egg-info/dependency_links.txt
+simple_functions.egg-info/top_level.txt
+tests/test_simple_functions.py
